@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning.
+### Hi there 👋! It's Hermes!
+- 🌱 I’m currently learning JavaScript, TypeScript and React!
 
 <!--
 **erirapce/erirapce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
