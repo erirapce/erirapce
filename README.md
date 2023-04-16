@@ -1,4 +1,4 @@
-### Hi there 👋! It's Hermes!
+### Hi there 👋!  It's Hermes :smiley:!
 - 🌱 I’m currently learning JavaScript, TypeScript and React!
 
 <!--
