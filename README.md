@@ -2,9 +2,9 @@
 
 ### Hi, I'm Hermes!
 
-:black_circle: Junior WebApp/Software Developer <br/>
-:black_circle: Studied [Computer Science and Media Theory](https://imi-bachelor.htw-berlin.de/) at the University of Applied Sciences in Berlin, Germany <br/>
-:black_circle: I’m currently learning Spring Boot, TypeScript and React <br/>
+- :computer: Junior WebApp/Software Developer <br/>
+- :school: Studied [Computer Science and Media Theory](https://imi-bachelor.htw-berlin.de/) at the University of Applied Sciences in Berlin, Germany <br/>
+- 🌱 I’m currently learning Spring Boot, TypeScript and React <br/>
 
 <!-- Github stats -->
 [![Hermes' GitHub stats](https://github-readme-stats.vercel.app/api?username=erirapce)](https://github.com/anuraghazra/github-readme-stats)
