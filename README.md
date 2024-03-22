@@ -1,4 +1,10 @@
-### Hi there 👋!  It's Hermes :smiley:!
+
+
+### Hi, I'm Hermes!
+
+Junior WebApp/Software Developer
+Studied Computer Science and Media Theory at the University of Applied Sciences in Berlin, Germany
+
 - 🌱 I’m currently learning TypeScript and React!
 
 <!--
